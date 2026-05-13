@@ -1,3 +1,3 @@
 # DL Projects
 
-Repository containing ML, computer vision, and data analysis projects developed using Python.
+Repository containing DL, OpenCV, MediaPipe projects developed using Python.
